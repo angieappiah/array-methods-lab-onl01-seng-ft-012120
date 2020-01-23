@@ -5,8 +5,9 @@ end
 end
 
 def using_sort(array)
-  (array).sort
+  (array).sort?
 end
+
 
 end
 
