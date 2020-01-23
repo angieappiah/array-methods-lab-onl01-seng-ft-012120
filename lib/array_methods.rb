@@ -12,6 +12,9 @@ end
 end
 
 def using_reverse(array)
+  array = reverse array?
+end
+
 
 end
 
